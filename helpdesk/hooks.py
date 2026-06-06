@@ -1,10 +1,10 @@
 app_name = "helpdesk"
 app_title = "Helpdesk"
-app_publisher = "Frappe Technologies"
+app_publisher = "Biz Technology Solutions"
 app_description = "Customer Service Software"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "hello@frappe.io"
+app_email = "dev@ethiobiz.et"
 app_license = "AGPLv3"
 required_apps = ["frappe/telephony"]
 

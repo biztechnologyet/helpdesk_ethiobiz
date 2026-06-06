@@ -146,7 +146,7 @@
       v-model="showHelpModal"
       v-model:articles="articles"
       appName="helpdesk"
-      title="Frappe Helpdesk"
+      title="Helpdesk"
       :logo="logo"
       docsLink="https://ethiobiz.et/support"
       :afterSkip="(step) => capture('onboarding_step_skipped_' + step)"
@@ -332,7 +332,7 @@ const agentPortalDropdown = computed(() => [
     onClick: () => window.open("https://ethiobiz.et/support"),
   },
   {
-    label: __("Login to Frappe Cloud"),
+    label: __("Login"),
     icon: FrappeCloudIcon,
     onClick: () => confirmLoginToFrappeCloud(),
     condition: () => !isMobileView.value && window.is_fc_site,
@@ -591,7 +591,7 @@ const articles = ref([
     ],
   },
   {
-    title: "Frappe Helpdesk Mobile",
+    title: "Helpdesk Mobile",
     opened: false,
     subArticles: [
       { name: "pwa-installation", title: "Mobile App Installation" },

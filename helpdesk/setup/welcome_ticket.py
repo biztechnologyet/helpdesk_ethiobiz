@@ -18,7 +18,7 @@ https://support.frappe.io/helpdesk</a>
 <br><br>
 Best,
 <br>
-Ritvik Sardana | Frappe Helpdesk.
+Helpdesk Team
 """
 
 

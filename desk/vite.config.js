@@ -36,7 +36,7 @@ export default defineConfig({
       },
       manifest: {
         display: "standalone",
-        name: "Frappe Helpdesk",
+        name: "Helpdesk",
         short_name: "Helpdesk",
         start_url: "/helpdesk",
         description:
