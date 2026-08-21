@@ -1,1 +1,0 @@
-{"version":3,"file":"dialogState-a394cc87.js","sources":["../../../../desk/src/pages/desk/contact/dialogState.ts"],"sourcesContent":["import { ref } from \"vue\";\n\nexport const showNewContactModal = ref(false);\n"],"names":["showNewContactModal","ref"],"mappings":"wCAEa,MAAAA,EAAsBC,EAAI,EAAK"}
