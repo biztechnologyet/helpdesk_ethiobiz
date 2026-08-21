@@ -1,0 +1,2 @@
+import{a_ as o,e as t,k as r,l as n}from"./index-873e04aa.js";const s={class:"lucide lucide-dot",xmlns:"http://www.w3.org/2000/svg",width:"24",height:"24",viewBox:"0 0 24 24",fill:"none",stroke:"currentColor","stroke-width":"1.5","stroke-linecap":"round","stroke-linejoin":"round"};function c(l,e){return t(),r("svg",s,[...e[0]||(e[0]=[n("circle",{cx:"12.1",cy:"12.1",r:"1"},null,-1)])])}const a=o({name:"lucide-dot",render:c});export{a as I};
+//# sourceMappingURL=dot-6e4cd934.js.map

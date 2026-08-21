@@ -1,0 +1,2 @@
+import{r as n,e as r,k as c,l as t,g as s,w as o,T as l,t as i}from"./index-873e04aa.js";const p={class:"grid h-full place-items-center px-4 py-20 text-center text-lg text-gray-600"},d={class:"space-y-2"},x={__name:"InvalidPage",setup(_){return(m,e)=>{const a=n("Button");return r(),c("div",p,[t("div",d,[e[1]||(e[1]=t("div",null,"Invalid page or not permitted to access",-1)),s(a,{route:{name:"TicketsAgent"}},{prefix:o(()=>[s(l,{class:"w-4"})]),default:o(()=>[e[0]||(e[0]=i(" Tickets ",-1))]),_:1})])])}}};export{x as default};
+//# sourceMappingURL=InvalidPage-1bc70d73.js.map
